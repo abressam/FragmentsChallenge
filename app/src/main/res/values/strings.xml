@@ -5,4 +5,7 @@
     <string name="message_text">User</string>
     <string name="second_fragment_text">#2 Fragment</string>
     <string name="textview">TextView</string>
+    <string name="grettings_text">Hello,</string>
+    <string name="password_text">Password</string>
+    <string name="welcome_text">Welcome to Android!</string>
 </resources>

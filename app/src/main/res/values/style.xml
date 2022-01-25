@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="TextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/roboto_slab</item>
+    </style>
 </resources>
