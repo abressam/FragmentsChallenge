@@ -11,7 +11,7 @@ class FirstFragment: Fragment(R.layout.fragment_first) {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        val nextButton = view.findViewById<Button>(R.id.next_fragment)
+        val nextButton = view.findViewById<Button>(R.id.back_fragment)
         nextButton.setOnClickListener { changeFragment() }
     }
 
